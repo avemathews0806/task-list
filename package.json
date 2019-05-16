@@ -1,0 +1,16 @@
+{
+    "name": "task-list",
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "https://avemathews0806.github.io/task-list",
+    "main": "app.js",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gh-pages": "^2.0.1"
+    }
+}
